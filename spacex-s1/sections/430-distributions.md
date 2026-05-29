@@ -1,0 +1,18 @@
+---
+doc: spacex-s1
+section_id: '430'
+title: Distributions
+parent: null
+pages:
+- 218
+tokens: 844
+tables: []
+figures: []
+description: As described in the section titled 'Dividend Policy,' we do not anticipate declaring or paying dividends to holders of our Class A common stock in the foreseeable future.
+---
+
+As described in the section titled 'Dividend Policy,' we do not anticipate declaring or paying dividends to holders of our Class A common stock in the foreseeable future. However, if we do make distributions of cash or property on our Class A common stock (other than certain pro rata distributions of our stock), such distributions will be treated as dividends to the extent paid out of our current or accumulated earnings and profits (as determined under U.S. federal income tax principles). Amounts not treated as dividends for U.S. federal income tax purposes will be treated as a tax-free return of capital and first be applied against and reduce a Non-U.S. Holder's tax basis in its shares of our Class A common stock, but not below zero. Any excess will be treated as capital gain from the sale or exchange of the Non-U.S. Holder's shares of Class A common stock taxable as described below under '-Sale or Disposition of Class A Common Stock.'
+
+Subject to the discussion below on backup withholding and FATCA, dividends  paid to a Non-U.S. Holder of our Class A common stock that are not effectively connected with the Non-U.S. Holder's conduct of a trade or business within the United States will generally be subject to withholding of U.S. federal income tax at a 30% rate or such lower rate as may be specified by an applicable income tax treaty, provided the Non-U.S. Holder furnishes a valid IRS Form W-8BEN or W-8BEN-E (or other applicable documentation) certifying qualification for the lower treaty rate. These certifications must be provided to the applicable withholding agent prior to the payment of dividends and must be updated periodically. A Non-U.S. Holder that does not timely furnish the required documentation, but is eligible for a reduced rate of withholding tax under an income tax treaty, may obtain a refund or credit of any excess amounts withheld by filing an appropriate claim for refund with the IRS. Non-U.S. Holders should consult their tax advisors regarding their entitlement to benefits under an applicable income tax treaty and the manner of claiming the benefits of such treaty.
+
+Dividends that are effectively connected with a Non-U.S. Holder's conduct of a trade or business within the United States (and, if required by an applicable income tax treaty, are attributable to a permanent establishment or fixed base that such holder maintains or maintained in the United States) are not subject to the withholding tax described above but instead are subject to U.S. federal income tax on a net income basis at applicable graduated U.S. federal income tax rates. In order for its effectively connected dividends to be exempt from the withholding tax described above, a Non-U.S. Holder will be required to provide a duly completed and properly executed IRS Form W-8ECI, certifying that the dividends are effectively connected with the Non-U.S. Holder's conduct of a trade or business within the United States. Dividends received by a Non-U.S. Holder that is a corporation that are effectively connected with its conduct of a trade or business within the United States may be subject to an additional 'branch profits tax' at a 30% rate or such lower rate as may be specified by an applicable income tax treaty. Non-U.S. Holders should consult their tax advisors regarding any applicable tax treaties that may provide for different rules.

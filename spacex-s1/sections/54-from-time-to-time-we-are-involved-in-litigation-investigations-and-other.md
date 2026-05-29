@@ -1,0 +1,16 @@
+---
+doc: spacex-s1
+section_id: '54'
+title: From time to time, we are involved in litigation, investigations, and other regulatory proceedings which could be costly, time-consuming, and divert management attention, materially adversely affecting our business.
+parent: null
+pages:
+- 49
+tokens: 669
+tables: []
+figures: []
+description: From time to time, we have been and may in the future become involved in various legal proceedings relating to a variety of matters, including intellectual property, commercial, regulatory, product liability, employment, personal injury, class action, employee or contractor…
+---
+
+From time to time, we have been and may in the future become involved in various legal proceedings relating to a variety of matters, including intellectual property, commercial, regulatory, product liability, employment, personal injury, class action, employee or contractor health and safety, environmental, whistleblower, securities and other litigation and claims, and governmental and other regulatory investigations and proceedings, including tax examinations. Additionally, our share price may be volatile and, in the past, companies that have experienced
+
+volatility in the market price of their stock have been subject to securities litigation, including class action litigation. Such matters could be costly, time-consuming, and divert management's attention from executing our strategic initiatives and operating our business. The industries in which we operate have historically experienced significant litigation and regulatory scrutiny, and with our public profile, expanding operations and the novel nature of some of our offerings, including our AI solutions, we may face an increased risk of such actions. Litigation and regulatory proceedings are inherently unpredictable. Any adverse judgments, settlements, or regulatory penalties could result in substantial financial costs, reputational harm, and operational disruptions. Certain of our hardware products are new and relatively unproven. If a product defect were to arise, especially one leading to product liability claims, the resulting warranty and damage claims, together with any associated harm to our reputation, could have a material adverse effect on our business, financial condition, results of operations, and future prospects. Even if we prevail in these matters, the defense and resolution of litigation and regulatory proceedings may require significant resources and management attention, which could materially and adversely affect our business, financial condition, results of operations, and future prospects. Additionally, the mere initiation of litigation or government inquiries, regardless of the outcome, could negatively impact investor confidence and our stock price. As we continue to innovate and pursue new commercial and government contracts, expand our product offerings, and enter new markets, the likelihood of facing legal and regulatory challenges may increase, further exposing us to these risks. Please refer to 'Business-Legal Proceedings' and Note 17, Commitments and Contingencies, in our audited consolidated financial statements and Note 16, Commitments and Contingencies in our unaudited consolidated financial statements include elsewhere in this prospectus.

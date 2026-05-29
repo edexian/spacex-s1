@@ -1,0 +1,23 @@
+---
+doc: spacex-s1
+section_id: '416'
+title: Limitations on Liability and Indemnification of Officers and Directors
+parent: null
+pages:
+- 214
+- 215
+tokens: 1031
+tables: []
+figures: []
+description: 'Our charter will include a provision eliminating the liability of our directors and officers for monetary damages for an act or omission by the person in the person''s capacity as a director or officer, respectively, except for: (i) a breach of the duty of loyalty to the Company…'
+---
+
+Our charter will include a provision eliminating the liability of our directors and officers for monetary damages for an act or omission by the person in the person's capacity as a director or officer, respectively, except for: (i) a breach of the duty of loyalty to the Company or its shareholders; (ii) an act or omission not in good faith that constitutes a breach of duty of the person to the Company or involves intentional misconduct or a knowing violation of applicable law; (iii) a transaction from which the director or officer obtains an improper benefit, regardless of whether the benefit resulted from an action taken within the scope of the person's duties; or (iv) an act or omission for which the liability of a director or officer is expressly provided by an applicable statute (such as wrongful distributions). Our charter also will provide that if the TBOC is amended in the future to authorize corporate action further eliminating or limiting of the personal liability of directors and officers, the liability of directors and officers will be eliminated or limited to the fullest extent permitted by the TBOC as so amended.
+
+Any amendment, repeal or modification of these provisions will be prospective only and would not affect any limitation on liability of a director or officer for acts or omissions that occurred prior to any such amendment, repeal or modification.
+
+Our bylaws also provide that we will indemnify and advance expenses to our directors and officers to the fullest extent permitted by the TBOC, subject to reimbursement in the event it is ultimately determined that the individual was not entitled to indemnification under the TBOC or the indemnification agreement. Our bylaws also will permit us to purchase insurance on behalf of any officer, director, employee, or other agent for any liability arising out of that person's actions as our officer, director, employee or agent, regardless of whether the TBOC would permit indemnification. We intend to enter into indemnification agreements with each of our current and future directors and officers. These agreements will require us to indemnify these individuals against liability that may arise by reason of their service to us, and to advance expenses incurred as a result of any proceeding against them as to which they could be indemnified. As permitted by the TBOC, because these agreements are expected to be approved by our shareholders, the agreements may require indemnification or payment of expenses in favor of the indemnitee in certain circumstances in which we would not otherwise have the power to do so under the provisions of the TBOC or our charter or bylaws. We believe that the limitation of liability provision that will be in our charter and the indemnification agreements will facilitate our ability to continue to attract and retain qualified individuals to serve as directors and officers.
+
+Our bylaws will provide that the Company affirmatively elects to be governed by Section 21.419 of the TBOC and any successor provision thereto. Because the Company will have a class of voting common stock (our Class A common stock) listed on a national securities exchange, Section 21.419 will also be deemed to apply to the
+
+Company. Under Section 21.419 of the TBOC, in taking or declining to take any action on any matters of a corporation's business, a director or officer of the Company is presumed to act (i) in good faith, (ii) on an informed basis, (iii) in furtherance of the interests of the Company, and (iv) in obedience to the law and the Company's governing documents. In addition, neither the Company nor any of its shareholders has a cause of action against the director or officer as a result of any act or omission in the person's capacity as such unless the claimant rebuts one or more of the foregoing presumptions and it is proven by the claimant that (A) the director's or officer's act or omission constitutes a breach of one or more of the person's duties as a director or officer and (B) the breach involved fraud, intentional misconduct, an ultra vires act or a knowing violation of law.

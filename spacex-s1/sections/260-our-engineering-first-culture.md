@@ -1,0 +1,37 @@
+---
+doc: spacex-s1
+section_id: '260'
+title: Our Engineering-First Culture
+parent: null
+pages:
+- 132
+- 133
+tokens: 512
+tables: []
+figures: []
+description: We are able to achieve transformative technological breakthroughs because we accept only the laws of physics as the limiting factors to our work and mission. Our core approach is deeply rooted in first-principles thinking, which rejects any preconceived notions or…
+---
+
+We are able to achieve transformative technological breakthroughs because we accept only the laws of physics as the limiting factors to our work and mission. Our core approach is deeply rooted in first-principles thinking, which rejects any preconceived notions or experience-based norms. Our unparalleled track record demonstrates our capacity to execute space missions and achieve technological breakthroughs with speed and precision that others have not achieved. We have a track record of achieving what many have deemed impossible. Some of our industrydefining achievements and historic milestones include:
+
+The first private company to develop and launch a liquid-fuel rocket to reach orbit (2008);
+
+The first private company to successfully dock a private spacecraft with the International Space Station (2012);
+
+The first to successfully propulsively land (2015) and refly orbital-class rocket boosters (2017);
+
+The first to begin deploying a large-scale LEO broadband satellite constellation (2019);
+
+The first private company to transport astronauts to orbit, returning America's ability to fly astronauts to and from the International Space Station (2020);
+
+The first to manufacture consumer-grade phased-array user terminals at scale (2022);
+
+The first to deploy a large-scale LEO satellite-to-mobile constellation (2025);
+
+The first to build a gigawatt-scale AI training cluster and largest coherent supercomputer (2026);
+
+The first gigawatt-scale Megapack battery installation (2026); and
+
+The only company capable of building orbital AI compute at scale.
+
+Our organizational philosophy fosters an engineering- and data-led culture that embraces failure as an essential learning opportunity and is maniacally focused on efficiency and speed. This culture allows us to deliberately move quickly to test new hardware, knowing that early failures provide more valuable data than protracted analysis. We view our factories as the machines that build the machines and maintain a relentless focus on our ability to move, fail, and fix fast.

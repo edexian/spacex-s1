@@ -1,0 +1,22 @@
+---
+doc: spacex-s1
+section_id: '350'
+title: Long-Term Incentive Compensation
+parent: null
+pages:
+- 198
+tokens: 1000
+tables: []
+figures: []
+description: In 2025, we granted long-term incentive compensation under our 2024 Equity Incentive Plan (the '2024 Plan'), which replaced our 2015 Equity Incentive Plan (the '2015 Plan') with respect to new grants; however, outstanding grants under the 2015 Plan remained outstanding and…
+---
+
+In 2025, we granted long-term incentive compensation under our 2024 Equity Incentive Plan (the '2024 Plan'), which replaced our 2015 Equity Incentive Plan (the '2015 Plan') with respect to new grants; however, outstanding grants under the 2015 Plan remained outstanding and subject to the terms of the 2015 Plan, which are substantially similar to the terms of the 2024 Plan. The 2024 Plan provides for the issuance of up to 365,950,000 shares of Class C common stock thereunder pursuant to stock options (which may be either incentive stock options or nonstatutory stock options), RSUs, and other equity awards, in each case, on the terms determined by our board. It is expected that, in connection with and following the completion of this offering, all outstanding awards under the 2015 Plan and the 2024 Plan will remain outstanding and continue to be subject to their existing terms; however, awards in respect of Class C common stock will be converted into awards in respect of Class A common stock on a one-forone basis as part of the Class C Reclassification. It is expected that the 2024 Plan will be amended and restated in connection with this offering, as described below.
+
+Given his significant ownership interest in our Company, Mr. Musk was not granted any annual long-term incentive compensation in 2025, and generally does not participate in our annual long-term incentive compensation program. However, as part of our efforts to further incentivize Mr. Musk to achieve our long-term business objectives, the board granted him a performance-based award of restricted shares of Class B common stock in January 2026, as described further under '-2026 Compensation Developments' below.
+
+Ms. Shotwell was eligible to participate in our long-term incentive election program with a target award of $5 million, pursuant to which she could elect to receive 20% of her target award in cash or RSUs that vest after six months and 80% of her target award in cash vesting over five years, RSUs vesting over five years or stock options vesting over six years. In accordance with her elections, on May 10, 2025, our board granted Ms. Shotwell 27,030 RSUs, representing $1 million of her target award, that vested on November 15, 2025 and stock options to purchase 324,325 shares of Class C common stock, representing $4 million of her target award, which vest as to 12.5% on May 15, 2027 and monthly thereafter in equal installments through November 15, 2030, in each case, subject to Ms. Shotwell's continued employment with us through the applicable vesting date.
+
+Because Mr. Johnsen held outstanding stock options tied to aggressive performance milestones, a portion of which were adjusted in 2026 as described further under '-2026 Compensation Developments' below, he was not eligible to participate in the long-term incentive election program described above. Instead, Mr. Johnsen's long-term incentive award for the 2025 Fiscal Year consisted exclusively of stock options to purchase 324,325 shares of Class C common stock, which was granted by our board on May 10, 2025. These stock options vest as to 40% in equal monthly installments from January 1, 2027 through December 1, 2027 and as to 60% in equal monthly installments from January 1, 2028 through December 1, 2030, in each case, subject to Mr. Johnsen's continued employment with us through the applicable vesting date.
+
+On October 20, 2025, as a special equity grant intended to further promote their retention, reward their individual performance, and encourage efforts to continue growing the Company, our board granted Ms. Shotwell stock options to purchase 3,537,740 shares of Class C common stock and granted Mr. Johnsen stock options to purchase 141,510 shares of Class C common stock. These special stock options vest as to 20% on September 30, 2027 and monthly thereafter in equal installments through September 30, 2031, in each case, subject to the NEO's continued employment with us through the applicable vesting date.

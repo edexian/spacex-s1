@@ -1,0 +1,16 @@
+---
+doc: spacex-s1
+section_id: '449'
+title: Israel
+parent: null
+pages:
+- 226
+tokens: 723
+tables: []
+figures: []
+description: In the State of Israel this prospectus shall not be regarded as an offer to the public to purchase shares of Class A common stock under the Israeli Securities Law, 5728-1968, which requires a prospectus to be published and authorized by the Israel Securities Authority, if it…
+---
+
+In the State of Israel this prospectus shall not be regarded as an offer to the public to purchase shares of Class A common stock under the Israeli Securities Law, 5728-1968, which requires a prospectus to be published and authorized by the Israel Securities Authority, if it complies with certain provisions of Section 15 of the Israeli Securities Law, 5728-1968, including, inter alia, if: (i) the offer is made, distributed or directed to not more than 35 investors, subject to certain conditions (the 'Addressed Investors'), or (ii) the offer is made, distributed or directed to certain qualified investors defined in the First Addendum of the Israeli Securities Law, 5728-1968, subject to certain conditions (the 'Qualified Investors'). The Qualified Investors shall not be taken into account in the count of the Addressed Investors and may be offered to purchase securities in addition to the 35 Addressed Investors. We have not and will not take any action that would require it to publish a prospectus in accordance with and subject to the Israeli Securities Law, 5728-1968. We have not and will not distribute this prospectus or make, distribute or direct an offer to subscribe for our Class A common stock to any person within the State of Israel, other than to Qualified Investors and up to 35 Addressed Investors.
+
+Qualified Investors may have to submit written evidence that they meet the definitions set out in of the First Addendum to the Israeli Securities Law, 5728-1968. In particular, we may request, as a condition to be offered shares of Class A common stock, that Qualified Investors will each represent, warrant and certify to us and/or to anyone acting on our behalf: (i) that it is an investor falling within one of the categories listed in the First Addendum to the Israeli Securities Law, 5728-1968; (ii) which of the categories listed in the First Addendum to the Israeli Securities Law, 5728-1968 regarding Qualified Investors is applicable to it; (iii) that it will abide by all provisions set forth in the Israeli Securities Law, 5728-1968 and the regulations promulgated thereunder in connection with the offer to be issued shares of Class A common stock; (iv) that the shares of Class A common stock that it will be issued are, subject to exemptions available under the Israeli Securities Law, 5728-1968: (a) for its own account; (b) for investment purposes only; and (c) not issued with a view to resale within the State of Israel, other than in accordance with the provisions of the Israeli Securities Law, 5728-1968; and (v) that it is willing to provide further evidence of its Qualified Investor status. Addressed Investors may have to submit written evidence in respect of their identity and may have to sign and submit a declaration containing, inter alia, the Addressed Investor's name, address and passport number or Israeli identification number.
